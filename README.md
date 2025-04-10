@@ -67,8 +67,8 @@ The data visualization focuses on:
 
 ## 📁 File Included
 
-- `ecommerce_sales.xlsx` (not attached here)
-- Dashboard screenshot: `Screenshot 2024-08-02.png`
+- <a href="https://github.com/AnkushChoudhary01/Ecommerce-Sale-Analysis/blob/main/Vrinda%20Store%20Data%20Analysis.xlsx">Dataset</a>
+- <a href="https://github.com/AnkushChoudhary01/Ecommerce-Sale-Analysis/blob/main/Screenshot%202024-08-02%20034030.png">Dashboard</a>
 
 ---
 
