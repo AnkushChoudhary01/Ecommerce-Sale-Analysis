@@ -1,6 +1,6 @@
-# 👗 Virnda Store Annual Report - Excel Dashboard
+#  E-commerce Sales Analysis - Excel Dashboard
 
-Welcome to the **Virnda Store Annual Report** — a data-driven Excel dashboard project showcasing key business metrics for an online retail fashion store.
+Welcome to the **E-commerce Sales Analysis** — a data-driven Excel dashboard project showcasing key business metrics for an online retail fashion store.E-commerce Sales Analysis
 
 This dashboard offers a clean, interactive visual of sales, customer demographics, order statuses, and performance by channel, region, and category.
 
@@ -8,7 +8,7 @@ This dashboard offers a clean, interactive visual of sales, customer demographic
 
 ## 📈 Project Summary
 
-This project provides a comprehensive **annual performance analysis** of Virnda Store. The dashboard is interactive with slicers for **Channel**, **Month**, and **Category**, allowing dynamic filtering and deep-dive analysis.
+This project provides a comprehensive **annual performance analysis** of Ecommerce Store. The dashboard is interactive with slicers for **Channel**, **Month**, and **Category**, allowing dynamic filtering and deep-dive analysis.
 
 The data visualization focuses on:
 
@@ -67,7 +67,7 @@ The data visualization focuses on:
 
 ## 📁 File Included
 
-- `Virnda_Store_Dashboard.xlsx` (not attached here)
+- `ecommerce_sales.xlsx` (not attached here)
 - Dashboard screenshot: `Screenshot 2024-08-02.png`
 
 ---
